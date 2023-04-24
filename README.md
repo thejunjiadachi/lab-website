@@ -1,2 +1,2 @@
 # lab-website
-website design for lab
+website design for DH lab
