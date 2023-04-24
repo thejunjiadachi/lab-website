@@ -1,0 +1,75 @@
+/* Style the body */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+  
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+  
+/* Style the navigation links */
+nav {
+    display: flex;
+    flex-direction: column;
+    background-color: #555;
+    color: #fff;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    height: 100vh; /* Set the height of the navbar to the full viewport height */
+    left: 0; /* Position the navbar to the left side */
+}
+  
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px; /* Add some space between the navbar and the main content */
+}
+  
+/* Style the main content */
+main {
+    padding: 20px;
+    margin-left: 20%; /* Add margin to the left side to make room for the navbar */
+}
+  
+section {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+  
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+  
+ul {
+    margin: 0;
+    padding: 0;
+}
+  
+li {
+    margin-bottom: 5px;
+}
+  
+a {
+    color: #333;
+    text-decoration: none;
+}
+  
+a:hover {
+    text-decoration: underline;
+}
+  
+
+  
