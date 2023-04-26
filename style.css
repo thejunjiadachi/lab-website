@@ -2,6 +2,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
+    
 }
   
 /* Style the header */
@@ -70,6 +71,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
-  
+
+table td {
+    padding-right: 20px;
+  }
 
   
