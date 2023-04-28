@@ -1,18 +1,27 @@
-/* Style the body */
+/* Body */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     
 }
   
-/* Style the header */
+/* Header */
 header {
     background-color: #333;
     color: #fff;
     padding: 10px;
 }
+
+h1 {
+    margin-bottom: 0;
+}
+
+h3 {
+    font-size: 1.5ex; /* Increase or decrease the size as needed */
+    margin-top: 0;
+}
   
-/* Style the navigation links */
+/* Navigation bar */
 nav {
     display: flex;
     flex-direction: column;
@@ -37,7 +46,7 @@ nav ul {
     margin-top: 20px; /* Add some space between the navbar and the main content */
 }
   
-/* Style the main content */
+/* Main content */
 main {
     padding: 20px;
     margin-left: 21%; /* Add margin to the left side to make room for the navbar */
@@ -74,6 +83,4 @@ a:hover {
 
 table td {
     padding-right: 20px;
-  }
-
-  
+}
